@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/zoostar/Documents/git/hans_on_ml_link/saveModels/my_logreg_model"
+all_model_checkpoint_paths: "/Users/zoostar/Documents/git/hans_on_ml_link/saveModels/my_logreg_model.ckpt"
+all_model_checkpoint_paths: "/Users/zoostar/Documents/git/hans_on_ml_link/saveModels/my_logreg_model"
